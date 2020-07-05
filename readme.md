@@ -1,3 +1,4 @@
-me meeting terraform, aws and maybe sth else  
-
-TODO: security check so no passwds leak
+me meeting  
+* terraform - done  
+* aws - done  
+* rock.st - progress  
