@@ -1,4 +1,5 @@
 me meeting  
 * terraform - done  
 * aws - done  
-* rock.st - progress  
+* react - progress
+* code styling - done
